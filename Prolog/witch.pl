@@ -1,6 +1,5 @@
 % Name: Tsz Yan Wong
-% CSE4102 - Homework 8
-% Question 3 - Burn the Witch!
+% Burn the Witch!
 
 female(girl).
 weight(girl).
