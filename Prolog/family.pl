@@ -1,7 +1,4 @@
 % Name: Tsz Yan Wong
-% CSE4102 - Homework 8
-% Question 1 - Family tree
-
 
 % Making the family tree, firstly the male
 male(kenneth). % Me
