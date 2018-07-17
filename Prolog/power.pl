@@ -1,6 +1,5 @@
 % Name: Tsz Yan Wong
-% CSE4102 - Homework 8
-% Question 2 - Simple numerical computations
+% Simple numerical computations
 
 % The power is 0, 0th power of anything is 1
 power(X, 0, 1) :- X > 0.
